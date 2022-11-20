@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.23)
-project(raytracer_from_scratch)
+project(raytracer-from-scratch)
 
 set(SDL2_DIR /opt/homebrew/Cellar/sdl2/2.24.2) # set SDL2 library path
 
